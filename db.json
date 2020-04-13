@@ -1,0 +1,11 @@
+{
+  "postagens": [
+    {
+      "conteudo": "testando a requisição do POST",
+      "data": "2020-04-13T23:24:25.413Z",
+      "dislikes": 0,
+      "likes": 1,
+      "id": 1
+    }
+  ]
+}
