@@ -1,11 +1,46 @@
 {
   "postagens": [
     {
-      "conteudo": "testando a requisição do POST",
-      "data": "2020-04-13T23:24:25.413Z",
+      "conteudo": "asdasdasdasdasdasd",
+      "data": "2020-04-15T22:24:57.853Z",
+      "likes": 0,
       "dislikes": 0,
-      "likes": 1,
       "id": 1
+    },
+    {
+      "conteudo": "ssssssss",
+      "data": "2020-04-15T22:37:13.307Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 2
+    },
+    {
+      "conteudo": "sssssss",
+      "data": "2020-04-15T22:37:39.091Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 3
+    },
+    {
+      "conteudo": "teste",
+      "data": "2020-04-15T22:45:12.491Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 4
+    },
+    {
+      "conteudo": "Teste 123",
+      "data": "2020-04-15T23:14:11.644Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 5
+    },
+    {
+      "conteudo": "Nova postagem",
+      "data": "2020-04-15T23:15:07.759Z",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 6
     }
   ]
 }

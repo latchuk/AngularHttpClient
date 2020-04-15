@@ -1,0 +1,8 @@
+<h1>Postagens:</h1>
+<button (click)="novaPostagem()">Nova postagem</button>
+<br><br>
+<div *ngFor="let postagem of postagens">
+  <p>{{postagem.conteudo}}</p>
+  <button>Editar</button>
+  <button (click)="verDetalhes(postagem)">Detalhes</button>
+</div>
